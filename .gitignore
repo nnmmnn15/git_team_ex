@@ -3,6 +3,9 @@
 
 ### Dart ###
 # See https://www.dartlang.org/guides/libraries/private-files
+git_test/*
+!git_test/images
+
 
 # Files and directories created by pub
 .dart_tool/
