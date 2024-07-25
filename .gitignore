@@ -3,8 +3,8 @@
 
 ### Dart ###
 # See https://www.dartlang.org/guides/libraries/private-files
-!images
-!git_test/images
+!images/*
+!git_test/images/*
 
 
 # Files and directories created by pub
