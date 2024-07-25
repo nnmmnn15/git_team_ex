@@ -4,6 +4,7 @@
 ### Dart ###
 # See https://www.dartlang.org/guides/libraries/private-files
 !images/*
+!images/*
 !git_test/images/*
 
 
