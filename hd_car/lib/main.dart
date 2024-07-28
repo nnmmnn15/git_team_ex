@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hd_car/home.dart';
+
+import 'home.dart';
 
 void main() {
   runApp(const MyApp());

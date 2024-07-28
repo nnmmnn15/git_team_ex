@@ -150,7 +150,7 @@ class Home extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    '엑시언트 수소전기트럭',
+                    '엑시언트 수소전기트럭 ',
                     style: TextStyle(
                       color: Colors.black,
                     ),
