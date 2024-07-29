@@ -161,10 +161,6 @@ class Home extends StatelessWidget {
                     ),
                     Column(
                       children: [
-                        Text(
-                          ' ',
-                          style: TextStyle(color: Colors.black),
-                        ),
                         Image.asset(
                           'images/ioniq5-n-23lc-well-side.png',
                           width: 200,
